@@ -81,11 +81,11 @@
 <h2>📊 My GitHub stats ...</h2>
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=youssefmagdy21&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=youssefmagdy21&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"
   />
   <br />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefmagdy21&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefmagdy21&langs_count=8&layout=compact&hide_border=true&theme=tokyonight"
   />
   <br />
   <b>Note:</b> Top languages is only a metric of the languages my public code
