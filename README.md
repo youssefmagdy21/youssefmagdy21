@@ -1,10 +1,14 @@
-<h1 align="center">Hi there 👋, I'm Youssef 👨‍💻</h1>
+<!-- -------------------START FILE-------------------------- -->
 
-<!-- ------------------------------------------- -->
+<!-- -----------------Header Section------------------------ -->
+
+<h1 align="center">Hi there 👋, I'm Youssef 👨‍💻</h1>
 
 <h2 align="center"><b>🌠An Aspiring Front-End Developer🌠</b></h2>
 
-<!-- ------------------------------------------- -->
+<hr />
+
+<!-- -----------------About Me Section------------------------ -->
 
 <h2>🤷‍♂️ About Me ...</h2>
 <ul style="list-style-type: none; padding: 0">
@@ -17,7 +21,8 @@
 
 <hr />
 
-<!-- ------------------------------------------- -->
+<!-- -----------------Fun Facts Section------------------------ -->
+
 <h2>🙏 Fun Facts ...</h2>
 <ul style="list-style-type: none; padding: 0">
   <li>
@@ -33,7 +38,7 @@
 
 <hr />
 
-<!-- ------------------------------------------- -->
+<!-- -----------------Working Section------------------------ -->
 
 <h2>🔭 I’m currently working with ...</h2>
 <div align="center">
@@ -59,7 +64,7 @@
 
 <hr />
 
-<!-- ----------------------------------------- -->
+<!-- -----------------Learning Section------------------------ -->
 
 <h2>🌱 I’m currently learning ...</h2>
 <div align="center">
@@ -76,17 +81,20 @@
 
 <hr />
 
-<!-- ----------------------------------------- -->
+<!-- -----------------Stats Section------------------------ -->
 
 <h2>📊 My GitHub stats ...</h2>
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=youssefmagdy21&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"
-  />
+  <a href="https://github.com/youssefmagdy21/">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=youssefmagdy21&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"
+    />
+  </a>
   <br />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefmagdy21&langs_count=8&layout=compact&hide_border=true&theme=tokyonight"
-  />
+  <a href="https://github.com/youssefmagdy21/">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefmagdy21&langs_count=8&layout=compact&hide_border=true&theme=tokyonight"
+  /></a>
   <br />
   <b>Note:</b> Top languages is only a metric of the languages my public code
   consists of and doesn't reflect experience or skill level.
@@ -94,7 +102,7 @@
 
 <hr />
 
-<!-- ----------------------------------------- -->
+<!-- -----------------Contacts Section------------------------ -->
 
 <h2>📫 How to reach me ...</h2>
 <div align="center">
@@ -115,4 +123,6 @@
   /></a>
 </div>
 
-<!-- ----------------------------------------- -->
+<hr />
+
+<!-- -----------------END OF FILE------------------------ -->
