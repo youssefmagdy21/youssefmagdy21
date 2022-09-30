@@ -15,7 +15,7 @@
   <li>⚡ I have a passion for <b>software developing and programming.</b></li>
   <li>
     ⚡ I'd love to learn everything about <b>web development</b> to build
-    <b>great and beautiful</b> web sites.
+    <b>great and beautiful</b> websites.
   </li>
 </ul>
 
