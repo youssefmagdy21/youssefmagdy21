@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there 👋, I'm Youssef 👨‍💻</h1>
 
-<h2 align="center"><b>🌠An Aspiring Front-End Developer🌠</b></h2>
+<h2 align="center"><b>🌠An Aspiring Front-End Web Developer🌠</b></h2>
 
 <hr />
 
