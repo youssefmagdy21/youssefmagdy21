@@ -87,13 +87,13 @@
 <div align="center">
   <a href="https://github.com/youssefmagdy21/">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=youssefmagdy21&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=youssefmagdy21&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"
     />
   </a>
   <br />
   <a href="https://github.com/youssefmagdy21/">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefmagdy21&langs_count=8&layout=compact&hide_border=true&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefmagdy21&langs_count=8&layout=compact&theme=tokyonight&hide_border=true"
   /></a>
   <br />
   <b>Note:</b> Top languages is only a metric of the languages my public code
