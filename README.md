@@ -118,7 +118,7 @@
   <a href="https://www.facebook.com/youssef.yma.21"
     ><img src="https://img.icons8.com/doodle/48/000000/facebook-new.png"
   /></a>
-  <a href="https://www.instagram.com/youssef_magdy21/"
+  <a href="https://www.instagram.com/youssef.magdy21/"
     ><img src="https://img.icons8.com/doodle/48/000000/instagram-new.png"
   /></a>
 </div>
