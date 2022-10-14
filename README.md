@@ -112,10 +112,10 @@
   <a href="mailto:youssef.magdyali99@gmail.com"
     ><img src="https://img.icons8.com/doodle/48/000000/gmail-new.png" />
   </a>
-  <a href="https://twitter.com/youssefyma"
+  <a href="https://twitter.com/youssefmagdy_21"
     ><img src="https://img.icons8.com/doodle/48/000000/twitter-squared.png"
   /></a>
-  <a href="https://www.facebook.com/youssef.yma.21"
+  <a href="https://www.facebook.com/youssefmagdy21"
     ><img src="https://img.icons8.com/doodle/48/000000/facebook-new.png"
   /></a>
   <a href="https://www.instagram.com/youssef.magdy21/"
