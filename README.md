@@ -17,6 +17,7 @@
     ⚡ I'd love to learn everything about <b>web development</b> to build
     <b>great and beautiful</b> websites.
   </li>
+  <li>⚡ I love listening to music🎧 and reading books📖.</li>
 </ul>
 
 <hr />
@@ -26,11 +27,8 @@
 <h2>🙏 Fun Facts ...</h2>
 <ul style="list-style-type: none; padding: 0">
   <li>
-    ⚡ I love <em><b>FRIENDS</b></em
-    >.
-  </li>
-  <li>
-    ⚡ As Phoebe Buffay once said
+    ⚡ As Phoebe Buffay (<em>from <b>FRIENDS</b></em
+    >) once said
     <em><b>&quot;I don't even have a pla..&quot;</b></em>
   </li>
   <li>⚡ Guess who's also a <b>Gamer🎮</b>.</li>
@@ -54,6 +52,9 @@
   >
     <img src="https://img.icons8.com/color/48/000000/javascript.png" />
   </a>
+   <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/FFFFFF/tailwind_css.png" />
+  </a>
   <a href="https://nodejs.org/en/" target="_blank"
     ><img src="https://img.icons8.com/color/48/000000/nodejs.png"
   /></a>
@@ -70,9 +71,6 @@
 <div align="center">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/react-native.png" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/FFFFFF/tailwind_css.png" />
   </a>
   <a href="https://sass-lang.com/" target="_blank"
     ><img src="https://img.icons8.com/color/48/000000/sass.png" />
