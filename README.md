@@ -55,9 +55,9 @@
    <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/FFFFFF/tailwind_css.png" />
   </a>
-  <a href="https://nodejs.org/en/" target="_blank"
+<!--   <a href="https://nodejs.org/en/" target="_blank"
     ><img src="https://img.icons8.com/color/48/000000/nodejs.png"
-  /></a>
+  /></a> -->
   <a href="https://git-scm.com/" target="_blank"
     ><img src="https://img.icons8.com/color/48/000000/git.png"
   /></a>
@@ -113,12 +113,12 @@
   <a href="https://twitter.com/youssefmagdy_21"
     ><img src="https://img.icons8.com/doodle/48/000000/twitter-squared.png"
   /></a>
-  <a href="https://www.facebook.com/youssefmagdy21"
+<!--   <a href="https://www.facebook.com/youssefmagdy21"
     ><img src="https://img.icons8.com/doodle/48/000000/facebook-new.png"
   /></a>
   <a href="https://www.instagram.com/youssef.magdy21/"
     ><img src="https://img.icons8.com/doodle/48/000000/instagram-new.png"
-  /></a>
+  /></a> -->
 </div>
 
 <hr />
