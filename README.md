@@ -31,7 +31,7 @@
     >) once said
     <em><b>&quot;I don't even have a pla..&quot;</b></em>
   </li>
-  <li>⚡ Guess who's also a <b>Gamer🎮</b>.</li>
+  
 </ul>
 
 <hr />
