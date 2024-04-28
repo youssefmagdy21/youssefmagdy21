@@ -69,12 +69,12 @@
 
 <h2>🌱 I’m currently learning ...</h2>
 <div align="center">
-  <a href="https://reactjs.org/" target="_blank">
+  <a href="https://react.dev/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/react-native.png" />
   </a>
-  <a href="https://sass-lang.com/" target="_blank"
-    ><img src="https://img.icons8.com/color/48/000000/sass.png" />
-  </a>
+<!--   <a href="https://reactrouter.com/en/main" target="_blank"
+    ><img src="https://img.icons8.com/color/48/000000/react-router.png" />
+  </a> -->
 </div>
 
 <hr />
