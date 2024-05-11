@@ -52,6 +52,9 @@
   >
     <img src="https://img.icons8.com/color/48/000000/javascript.png" />
   </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" />
+  </a>
    <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/FFFFFF/tailwind_css.png" />
   </a>
