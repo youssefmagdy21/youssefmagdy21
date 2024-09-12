@@ -24,6 +24,7 @@
 
 <!-- -----------------Fun Facts Section------------------------ -->
 
+<!--
 <h2>🙏 Fun Facts ...</h2>
 <ul style="list-style-type: none; padding: 0">
   <li>
@@ -35,7 +36,7 @@
 </ul>
 
 <hr />
-
+-->
 <!-- -----------------Working Section------------------------ -->
 
 <h2>🔭 I’m currently working with ...</h2>
@@ -48,6 +49,10 @@
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank">
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+   <a
+    href="https://www.npmjs.com/"
+    target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
   <a href="https://react.dev/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
    <a href="https://tailwindcss.com/" target="_blank">
@@ -64,10 +69,10 @@
 <div align="center">
   <a href="https://react.dev/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
-<!--   <a href="https://nodejs.org/en/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a> -->
-<!--   <a href="https://reactrouter.com/en/main" target="_blank"
-    ><img src="https://img.icons8.com/color/48/000000/router-dom.png"/></a> -->
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
+  <a href="https://redux-toolkit.js.org/" target="_blank"
+    ><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
 </div>
 
 <hr />
