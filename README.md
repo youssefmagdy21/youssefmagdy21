@@ -12,12 +12,12 @@
 
 <h2>🤷‍♂️ About Me ...</h2>
 <ul style="list-style-type: none; padding: 0">
-  <li>⚡ I have a passion for <b>software developing and programming.</b></li>
+  <li>⚡ I have a passion for <b>software development and programming.</b></li>
   <li>
     ⚡ I'd love to learn everything about <b>web development</b> to build
     <b>great and beautiful</b> websites.
   </li>
-  <li>⚡ I love listening to music🎧 and reading books📖.</li>
+<!--   <li>⚡ I love listening to music🎧 and reading books📖.</li> -->
 </ul>
 
 <hr />
