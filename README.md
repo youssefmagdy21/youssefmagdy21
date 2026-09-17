@@ -100,8 +100,6 @@
     ><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/></a>
   <a href="mailto:youssef.magdyali99@gmail.com"
     ><img src="https://img.icons8.com/doodle/48/000000/gmail-new.png"/></a>
-  <a href="https://twitter.com/youssefmagdy_21"
-    ><img src="https://img.icons8.com/doodle/48/000000/twitter-squared.png"/></a>
 </div>
 
 <hr />
